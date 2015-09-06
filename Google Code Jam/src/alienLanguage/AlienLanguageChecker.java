@@ -1,5 +1,5 @@
 	package alienLanguage;
-	
+	//small test
 	public class AlienLanguageChecker {
 		AlienLanguageDictionary ald;
 		char[][] pattern;//
